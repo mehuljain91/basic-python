@@ -1,1 +1,2 @@
-# basic-python
+# basic-python    
+Small python projects
